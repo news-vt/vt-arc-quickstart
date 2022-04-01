@@ -4,7 +4,7 @@ Quickstart material for VT ARC HPC resources.
 
 ## Contents
 
-- [ssh.config](ssh.config): SSH configuration with ARC cluster node aliases (see also [SSH Configuration guide](#ssh-configuration)).
+- [SSH Configuration guide](#ssh-configuration): SSH configuration with ARC cluster node aliases (see also [ssh.config](ssh.config)).
 
 ## SSH Configuration
 
