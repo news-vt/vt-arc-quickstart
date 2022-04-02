@@ -4,7 +4,28 @@ Quickstart material for VT ARC HPC resources.
 
 ## Contents
 
+- [Code Editor](#code-editor): Recommendations for code editors and plugins.
 - [SSH Configuration guide](#ssh-configuration): SSH configuration with ARC cluster node aliases (see also [ssh.config](ssh.config)).
+
+## Code Editor
+
+A code editor is required for development. Many are available, use whichever you prefer. However, something to consider is using one that has remote development capabilities. `VSCode` is recommended for several reasons:
+- Fast
+- Lightweight
+- Extensible through plugins
+    - Jupyter notebooks
+    - Remote development
+- Widely used by developer community
+
+You can download `VSCode` from its homepage: <https://code.visualstudio.com/>
+
+### Recommended VSCode Extensions
+
+If you choose `VSCode`, then a list of recommended extensions are:
+- `ms-vscode-remote.vscode-remote-extensionpack` ([VS Marketplace Link](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack))
+- `ms-python.python` ([VS Marketplace Link](https://marketplace.visualstudio.com/items?itemName=ms-python.python))
+- `eamodio.gitlens` ([VS Marketplace Link](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens))
+
 
 ## SSH Configuration
 
