@@ -14,7 +14,6 @@
 CONDA_ENV_NAME="tf-p100"
 
 # Load modules.
-echo "Loading modules"
 module reset
 module load Anaconda3/2020.11
 
