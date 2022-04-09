@@ -10,11 +10,13 @@
 #SBATCH --mail-user=$USER
 #SBATCH --mail-type=BEGIN,END,FAIL
 
+# Choose Anaconda environment name string.
+CONDA_ENV_NAME="tf-p100"
+
 # Load modules.
 echo "Loading modules"
 module reset
 module load Anaconda3/2020.11
 
 # Run python command using Anaconda enviroment.
-CONDA_ENV_NAME="tf-p100"
 conda run -n ${CONDA_ENV_NAME} python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
