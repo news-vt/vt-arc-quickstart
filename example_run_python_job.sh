@@ -7,7 +7,7 @@
 #SBATCH --cpus-per-task 4
 #SBATCH --time=12:00:00
 #SBATCH --account="bigdata"
-#SBATCH --mail-user=$USER
+#SBATCH --mail-user=$USER@vt.edu
 #SBATCH --mail-type=BEGIN,END,FAIL
 
 # Choose Anaconda environment name string.
