@@ -2,6 +2,8 @@
 
 Quickstart material for VT ARC HPC resources.
 
+I wrote a tutorial presentation that provides more overview information on how ARC works, and how you as a developer can interact with it. You can find it on Google Drive at: <https://docs.google.com/presentation/d/1DP41pLniomDlMRpdZvensxEITcIijGKw3hu-2-16mak/edit?usp=sharing>
+
 ## Contents
 
 - [Code Editor](#code-editor): Recommendations for code editors and plugins.
