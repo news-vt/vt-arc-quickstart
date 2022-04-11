@@ -189,7 +189,7 @@ Run a synchronous interactive job on the current cluster using the following spe
 - `--account="bigdata"`: Use allocation with ID string `"bigdata"`
 - `--partition=p100_normal_q`: Use partition with ID string `p100_normal_q`, which means Nvidia P100 GPU on the normal job queue
 - `--ntasks 4`: Number of concurrent tasks within this job is 4
-- `--cpus-per-task 4`: Number of cores per job is 4
+- `--cpus-per-task 4`: Number of cores per task is 4
 - `--time=8:00:00`: Job run time until timeout is 8 hours
 
 ```bash
