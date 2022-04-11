@@ -4,10 +4,35 @@ Quickstart material for VT ARC HPC resources.
 
 I wrote a tutorial presentation that provides more overview information on how ARC works, and how you as a developer can interact with it. You can find it on Google Drive at: <https://docs.google.com/presentation/d/1DP41pLniomDlMRpdZvensxEITcIijGKw3hu-2-16mak/edit?usp=sharing>
 
-## Contents
+## Table of Contents
 
+- [Helpful Resources](#helpful-resources): Collection of useful links to aid environment setup and development.
 - [Code Editor](#code-editor): Recommendations for code editors and plugins.
 - [SSH Configuration guide](#ssh-configuration): SSH configuration with ARC cluster node aliases (see also [ssh.config](ssh.config)).
+
+## Helpful Resources
+
+- Anaconda Homepage: https://www.anaconda.com/products/distribution
+- NEWS@VT ARC Quickstart Repository: https://github.com/news-vt/vt-arc-quickstart
+- ARC Homepage: https://arc.vt.edu/
+- ARC Documentation: https://www.docs.arc.vt.edu/index.html
+    - Infer cluster info: https://www.docs.arc.vt.edu/resources/compute/01infer.html
+    - Partition info: https://www.docs.arc.vt.edu/resources/gpu.html
+    - Storage info: https://www.docs.arc.vt.edu/resources/storage.html
+    - Storage changes: https://www.docs.arc.vt.edu/resources/storage-changes-sp22.html
+    - Computational resources: https://www.docs.arc.vt.edu/resources/compute.html
+- ARC ColdFront: https://coldfront.arc.vt.edu/
+- Jupyter Homepage: https://jupyter.org/
+- Singularity
+    - Quickstart: https://sylabs.io/guides/2.6/user-guide/quick_start.html
+- SLURM
+    - Quickstart: https://slurm.schedmd.com/quickstart.html
+    - Tutorials: https://slurm.schedmd.com/tutorials.html
+- VPN info: https://www.nis.vt.edu/ServicePortfolio/Network/RemoteAccess-VPN.html
+- VSCode:
+    - Homepage: https://code.visualstudio.com/
+    - Extension installation guide: https://code.visualstudio.com/docs/editor/extension-marketplace
+- VT Network Password info: https://onecampus.vt.edu/task/all/network-password-show
 
 ## Code Editor
 
